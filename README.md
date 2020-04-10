@@ -1,1 +1,1 @@
-# Mini-project-Face-Reccognition
+# Mini-project-Face-Recognition
